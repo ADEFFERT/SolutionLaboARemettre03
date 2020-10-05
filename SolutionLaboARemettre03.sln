@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Salaires des représentants", "Salaires des représentants\Salaires des représentants.vcxproj", "{B51CE5C2-EA1B-4577-B780-D0C4EC5B6871}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Devinette", "Devinette\Devinette.vcxproj", "{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B51CE5C2-EA1B-4577-B780-D0C4EC5B6871}.Release|x64.Build.0 = Release|x64
 		{B51CE5C2-EA1B-4577-B780-D0C4EC5B6871}.Release|x86.ActiveCfg = Release|Win32
 		{B51CE5C2-EA1B-4577-B780-D0C4EC5B6871}.Release|x86.Build.0 = Release|Win32
+		{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}.Debug|x64.ActiveCfg = Debug|x64
+		{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}.Debug|x64.Build.0 = Debug|x64
+		{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}.Debug|x86.Build.0 = Debug|Win32
+		{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}.Release|x64.ActiveCfg = Release|x64
+		{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}.Release|x64.Build.0 = Release|x64
+		{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}.Release|x86.ActiveCfg = Release|Win32
+		{A498894F-F0ED-419D-B2C7-AC2EC6D1B3B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
